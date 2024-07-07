@@ -1,4 +1,5 @@
-[![](https://assets.pinterest.com/ext/embed.html?id=833025262354152319)](https://www.pinterest.com/pin/833025262354152319/)
+![Junaid Furqan [Nick] Vision](https://drive.google.com/uc?id=1SW60fMI6KcGpu2-fGKk8epr4aEAHWitF)
+
 
 
 
