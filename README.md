@@ -8,37 +8,48 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
+### Mern Stack
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+
+### Databases
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=Microsoft-SQL-Server)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+
+
+### CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
 ![Odoo](https://img.shields.io/badge/-Odoo-000?&logo=Odoo)
 ![Shopify](https://img.shields.io/badge/-Shopify-000?&logo=Shopify)
 
 
+### Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ### Technologies
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=Visual-Studio-Code)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+### Authentication & ORM
+
+![OAuth](https://img.shields.io/badge/-OAuth-000?&logo=OAuth)
+![SSO](https://img.shields.io/badge/-SSO-000?&logo=SSO)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
+![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
 
 ### Full Stack Projects
 
