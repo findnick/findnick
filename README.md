@@ -1,4 +1,5 @@
-![Junaid Furqan [Nick] Vision](https://drive.google.com/uc?id=1SW60fMI6KcGpu2-fGKk8epr4aEAHWitF)
+![Junaid Furqan [Nick] Vision](https://raw.githubusercontent.com/findnick/profiling/main/HUD%20Element.gif)
+
 
 
 
