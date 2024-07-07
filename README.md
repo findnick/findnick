@@ -5,11 +5,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
